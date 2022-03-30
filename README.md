@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ariel
 - 👀 I’m interested in Java development as well as game dev
-- 🌱 I’m currently learning Unity as well as Angular
+- 🌱 I’m currently learning Unreal as well as Angular
 - 📫 You can reach me on my twitter @vigigs
 
 <!---
